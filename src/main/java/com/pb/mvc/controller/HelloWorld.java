@@ -22,6 +22,7 @@ import java.util.*;
 /**
  * @author haohan
  * 12/25/2018 - 02:59 下午
+ * 控制类
  */
 //@SessionAttributes(value = {"names", "age"}, types = String.class)
 @Controller
